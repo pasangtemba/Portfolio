@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Portfolio",
+      "imageSrc": "projects/project.PNG",
+      "description": "This is a project made to learn the latest languages by building a Web site.",
+      "skills": ["React", "html" , "css", " Javascript "],
+      "demo": "https://pasangtembasherpa.com.np/",
+      "source": "https://github.com/pasangtemba/Portfolio"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Search-Using-Catagory",
+      "imageSrc": "projects/project2.PNG",
+      "description": "This project allows you to Search product using price , product name and Catagory.",
+      "skills": ["React",  "Sass"," Javascript ", "html" ,"css"],
+      "demo": "https://searchproductc.netlify.app/",
+      "source": "https://github.com/pasangtemba/Search-Using-Catagory"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
+      "title": "multi-form-validation",
+      "imageSrc": "projects/project3.PNG",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": [" Javascript ","css" , "html"],
+      "demo": "https://multi-form-validation-f1jjpjqu8-pasangtemba.vercel.app/",
+      "source": "https://github.com/pasangtemba/multi-form-validation"
     }
   ]
